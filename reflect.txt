@@ -1,0 +1,5 @@
+1. 
+
+2. To be completely honest, I didn't really "enjoy" any of the processes that were part of this assignment and this, in no way, reflects the caliber of the course. During my entire professional career I worked with high-level scripting langauges like TypeScript and Python and few concepts such as pointers just don't make sense to me. However, the functions that I had the least amount of frustration developing were the get-input functions.
+
+3. I had a really hard time developing functions that had dealings, even in the most remote sense, with strings or characters. Again, pointers are my bain and I, for the life of me, don't know why I don't want to understand them. Getting a stack trace for normal datatypes across integrated functions is extremely easy. However, when you bring pointers into the picture, it becomes real confusing real fast. Debugging becomes insurmountable, creating patches become delusions of grandeur and scaling anything that has even the hint of pointers..well you have better chances of climbing the Mount Everest in light summer clothes.
